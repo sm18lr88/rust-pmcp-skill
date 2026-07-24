@@ -1,0 +1,5 @@
+interface:
+  display_name: "Rust PMCP Skill"
+  short_description: "Production Rust MCP server guidance for PAIML PMCP."
+policy:
+  allow_implicit_invocation: true
