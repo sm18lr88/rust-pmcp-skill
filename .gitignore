@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.omo/
+.pytest_cache/
+.solidkg/
